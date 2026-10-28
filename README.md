@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou o Mateus Santana 👋
 
-<!--
-**Mateussantana1/Mateussantana1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Back-end Júnior e Analista de Sistemas em formação, com experiência como assistente de TI e programador.
 
-Here are some ideas to get you started:
+## 💻 Sobre mim
+- Estudante universitário, com foco em modelagem de dados e desenvolvimento web
+- Trago bagagem prática de Finanças, Seguros e Vendas, o que me ajuda a entender as regras de negócio por trás dos sistemas
+- Atualmente desenvolvo um sistema de gestão para a Sibels Elegance, empresa familiar de semijoias
+- Em busca de oportunidades de estágio ou vaga júnior em desenvolvimento
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+## 📫 Contato
+- LinkedIn: [seu-link-aqui]
+- E-mail: [seu-email-aqui]
+
