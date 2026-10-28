@@ -1,24 +1,19 @@
-# Olá, eu sou o Mateus Santana 👋
+<!-- Cabeçalho animado -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=200&section=header&text=Mateus%20Santana&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor&descAlignY=58&descSize=20" width="100%"/>
+</p>
+<!-- Texto digitando -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Ol%C3%A1%2C+eu+sou+o+Mateus!+%F0%9F%91%8B;Desenvolvedor+com+foco+em+back-end;Banco+de+dados+%2B+modelagem+%2B+c%C3%B3digo;Transformando+problemas+reais+em+sistemas" alt="Typing SVG" />
+  </a>
+</p>
+<p align="center">
+  <a href="mailto:mat.santanaf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="SEU_LINK_DO_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visitas&color=1f6feb&style=for-the-badge" alt="visitas"/>
+</p>
 
-Desenvolvedor com foco em back-end e banco de dados, apaixonado por transformar necessidades reais em sistemas funcionais, organizados e fáceis de usar.
+🧑‍💻 Sobre mim
 
-## 💻 Sobre mim
-- Estudante universitário de tecnologia, com interesse em análise e desenvolvimento de sistemas
-- Atualmente desenvolvo um sistema de gestão para uma empresa de semijoias, cuidando desde a modelagem do banco de dados até a implementação
-- Gosto de entender o problema antes de escrever a primeira linha de código: levantar requisitos, modelar os dados e só então construir a solução
-- Tenho experiência com modelagem de dados (DER) e desenvolvimento web, incluindo projetos com foco em acessibilidade
-- Estou sempre estudando para evoluir como desenvolvedor e aberto a novas oportunidades na área
-
-## 🛠️ Tecnologias
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-## 🎯 Em foco agora
-- Aprofundar conhecimentos em back-end
-- Boas práticas de banco de dados e modelagem
-- Construir projetos completos para o portfólio
-
-## 📫 Contato
-- E-mail: [mat.santanaf@gmail.com
-- LinkedIn:https://www.linkedin.com/in/mateus-santana-faria
+Sou desenvolvedor e acredito que um bom sistema começa muito antes do código: entendendo o problema, conversando com quem vai usar e modelando os dados do jeito certo. Depois disso, é transformar tudo em uma solução funcional, organizada e fácil de usar.
