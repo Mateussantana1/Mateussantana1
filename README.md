@@ -17,3 +17,66 @@
 🧑‍💻 Sobre mim
 
 Sou desenvolvedor e acredito que um bom sistema começa muito antes do código: entendendo o problema, conversando com quem vai usar e modelando os dados do jeito certo. Depois disso, é transformar tudo em uma solução funcional, organizada e fácil de usar.
+
+const mateus = {
+  cargo: "Desenvolvedor",
+  foco: ["Back-end", "Banco de Dados", "Modelagem de Dados"],
+  stack: ["JavaScript", "HTML", "CSS", "MySQL"],
+  trabalhandoEm: "Sistema de gestão para uma empresa de semijoias",
+  aprendendo: "Back-end cada vez mais a fundo 🚀",
+  curiosidade: "Criei meu próprio jogo da cobrinha 🐍",
+  contato: "mat.santanaf@gmail.com",
+};
+
+•	🔭 Atualmente desenvolvo um sistema de gestão para uma empresa de semijoias, da modelagem do banco até a implementação
+	•	🗂️ Experiência com modelagem de dados (DER), levantamento de requisitos e estruturação de bancos relacionais
+	•	🌐 Desenvolvimento web com atenção à acessibilidade e à experiência de quem usa
+	•	🎮 Nas horas vagas, gosto de criar projetos para praticar lógica, como um jogo da cobrinha feito do zero
+	•	📚 Estudante universitário de tecnologia, sempre buscando evoluir e encarar novos desafios
+	•	🤝 Aberto a oportunidades e colaborações na área de desenvolvimento
+
+  🛠️ Tecnologias e ferramentas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+🚀 Projetos em destaque
+
+Projeto	Descrição	Tecnologias
+💎 Sistema de Gestão – Semijoias	Sistema para controle de produtos, estoque e vendas de uma empresa de semijoias, com banco de dados modelado do zero	JavaScript · MySQL
+🐍 Jogo da Cobrinha	O clássico Snake recriado do zero, com lógica de movimento, colisão e pontuação	JavaScript · HTML · CSS
+♻️ Site com foco em acessibilidade	Projeto web em equipe sobre reaproveitamento de eletrônicos, pensado para ser acessível a todos	HTML · CSS · JavaScript
+
+📊 Estatísticas
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&include_all_commits=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&locale=pt_BR"/>
+</p>
+
+🐍 A cobrinha comendo minhas contribuições
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake.svg" />
+    <img alt="cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <i>"Primeiro entenda o problema. Depois escreva o código."</i>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:1f6feb,100:0d1117&height=120&section=footer" width="100%"/>
+</p>
