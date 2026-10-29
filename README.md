@@ -9,7 +9,7 @@
 <p align="center">
   <a href="mailto:mat.santanaf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="SEU_LINK_DO_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visitas&color=8957e5&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Mateussantana1&label=Visitas&color=8957e5&style=for-the-badge"/>
 </p>
 
 ---
@@ -73,20 +73,17 @@ const mateus = {
 ## 📊 Minhas estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&include_all_commits=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mateussantana1&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&include_all_commits=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateussantana1&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&locale=pt_BR"/>
+  <img src="https://streak-stats.demolab.com?user=Mateussantana1&theme=tokyonight&hide_border=true&locale=pt_BR"/>
 </p>
 
 ---
 
-<p align="center">
-  <b><i>"Primeiro entenda o problema. Depois escreva o código."</i></b>
-</p>
+## 🐍 A cobrinha comendo minhas contribuições
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:1f6feb,100:0d1117&height=130&section=footer" width="100%"/>
-</p>
+  <img src="https://raw.githubusercontent.com/Mateussantana1/Mateussantana1/output/github-snake-dark.svg" alt="cobrinha"/>
