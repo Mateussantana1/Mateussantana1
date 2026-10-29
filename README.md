@@ -58,6 +58,18 @@ const mateus = {
 
 ---
 
+## 🎮 Jogo da Cobrinha
+
+<p align="center">
+  Recriei o clássico Snake do zero com JavaScript, HTML e CSS: movimento, colisão, pontuação e muita lógica de programação.
+</p>
+
+<p align="center">
+  <a href="LINK_DO_REPOSITORIO"><img src="https://img.shields.io/badge/Ver%20o%20jogo%20da%20cobrinha-1f6feb?style=for-the-badge&logo=javascript&logoColor=white"/></a>
+</p>
+
+---
+
 ## 📊 Minhas estatísticas
 
 <p align="center">
@@ -67,18 +79,6 @@ const mateus = {
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&locale=pt_BR"/>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
-
----
-
-## 🐍 A cobrinha comendo minhas contribuições
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake-dark.svg" alt="cobrinha comendo as contribuições"/>
 </p>
 
 ---
