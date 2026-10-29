@@ -56,34 +56,24 @@ const mateus = {
 | 🐍 **[Jogo da Cobrinha](LINK_DO_REPOSITORIO)** | O clássico Snake recriado do zero: movimento, colisão e pontuação | JavaScript · HTML · CSS |
 | ♻️ **Site acessível** | Projeto web em equipe sobre reaproveitamento de eletrônicos, pensado para todos | HTML · CSS · JavaScript |
 
----
-
-## 🎮 Jogo da Cobrinha
-
-<p align="center">
-  Recriei o clássico Snake do zero com JavaScript, HTML e CSS: movimento, colisão, pontuação e muita lógica de programação.
-</p>
-
 <p align="center">
   <a href="LINK_DO_REPOSITORIO"><img src="https://img.shields.io/badge/Ver%20o%20jogo%20da%20cobrinha-1f6feb?style=for-the-badge&logo=javascript&logoColor=white"/></a>
 </p>
 
 ---
 
-## 📊 Minhas estatísticas
+## 🐍 Minhas contribuições
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mateussantana1&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&include_all_commits=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateussantana1&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mateussantana1&theme=tokyonight&hide_border=true&locale=pt_BR"/>
+  <img src="https://raw.githubusercontent.com/Mateussantana1/Mateussantana1/output/github-snake-dark.svg" alt="cobrinha"/>
 </p>
 
 ---
 
-## 🐍 A cobrinha comendo minhas contribuições
+<p align="center">
+  <b><i>"Primeiro entenda o problema. Depois escreva o código."</i></b>
+</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mateussantana1/Mateussantana1/output/github-snake-dark.svg" alt="cobrinha"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:1f6feb,100:0d1117&height=130&section=footer" width="100%"/>
+</p>
