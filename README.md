@@ -18,15 +18,7 @@
 
 Sou desenvolvedor e acredito que um bom sistema começa muito antes do código: entendendo o problema, conversando com quem vai usar e modelando os dados do jeito certo. Depois disso, é transformar tudo em uma solução funcional, organizada e fácil de usar.
 
-const mateus = {
-  cargo: "Desenvolvedor",
-  foco: ["Back-end", "Banco de Dados", "Modelagem de Dados"],
-  stack: ["JavaScript", "HTML", "CSS", "MySQL"],
-  trabalhandoEm: "Sistema de gestão para uma empresa de semijoias",
-  aprendendo: "Back-end cada vez mais a fundo 🚀",
-  curiosidade: "Criei meu próprio jogo da cobrinha 🐍",
-  contato: "mat.santanaf@gmail.com",
-};
+
 
 •	🔭 Atualmente desenvolvo um sistema de gestão para uma empresa de semijoias, da modelagem do banco até a implementação
 	•	🗂️ Experiência com modelagem de dados (DER), levantamento de requisitos e estruturação de bancos relacionais
